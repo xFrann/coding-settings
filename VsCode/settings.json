@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.colorCustomizations": {
+        "[Material Theme Darker]": {}
+    },
+    "prettier.useTabs": true,
+    "prettier.printWidth": 100,
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.productIconTheme": "material-product-icons",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.tabSize": 2
+}
